@@ -1,0 +1,8 @@
+{
+    "explorer.openEditors.minVisible": 4,
+    "scm.alwaysShowRepositories": true,
+    "audioCues.lineHasBreakpoint": "on",
+    "audioCues.lineHasError": "on",
+    "audioCues.lineHasInlineSuggestion": "on",
+    "audioCues.lineHasWarning": "on"
+}
